@@ -1,0 +1,45 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    background-color: #9cc4e4;
+    /* fondo de imagen */
+}
+h1{
+    color: #1b325f ;
+    text-align: center;
+}
+
+p{
+    color: #495168 ;
+}
+h2{
+    color: #3a89c9 ;
+}
+.parrafo1{
+    color: black;
+    font-style: oblique;
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+    width: 430px;
+}
+.hermanos{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.ataques{
+    width: 200px;
+    color: #1b325f;
+    border: solid;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+}
+nav{
+    text-align: center;
+}
